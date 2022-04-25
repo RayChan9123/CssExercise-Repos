@@ -1,0 +1,18 @@
+.class {
+    background-color: rgba(255, 0, 0, 0.4);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+
+}
+#id1 {
+    color: rgb(0,0 , 255);
+    font-size: 36px;
+}
+.class.biggerfont{
+    font-size: 24px;
+
+}
+#id2 {
+    background-color: rgba(0, 255, 0, 0.5);
+    font-weight:bold;
+    font-size: 24px;
+}
