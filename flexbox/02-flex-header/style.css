@@ -5,6 +5,10 @@
     justify-content: space-between;
     padding:8px;
     align-items: center;
+    border: 1cm solid black;
+    border-top-color: aqua;
+    border-bottom-style:double;
+    border-top-style:double;
   }
   
   .logo {
@@ -13,6 +17,7 @@
     color: tomato;
     background: white;
     padding: 4px 32px;
+    border: 2px dashed blue;
 
 
   }
@@ -24,6 +29,7 @@
     gap:8px;
     margin:0;
     padding:0;
+    
 
 
   }
@@ -34,5 +40,5 @@
     padding: 8px;
     /* this removes the line under the links */
     text-decoration: none;
-
+    border:1px solid green;
   }
