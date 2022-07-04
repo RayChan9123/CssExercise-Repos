@@ -1,0 +1,95 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    font-family:'Roboto', arial;
+    text-align: center;
+}
+.container1{
+    background: rgb(47, 47, 68);
+    margin: 0;
+    padding: 0px;
+    display:flex;
+    flex-direction: column;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+    font-size: 24px;
+}
+.header-links{
+    display: flex;
+    gap:20px;
+
+}
+.fp{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:90px;
+    
+}
+.subtitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:36px;
+}
+.text-images{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container3{
+    background-color: lightgray;
+    padding: 60px;
+    font-size: 36px;
+    font-style:  italic;
+}
+p2{
+    display: flex;
+    justify-content: right;
+}
+.container4{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 30px;;
+}
+.action{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 30px;
+    background-color: lightblue;
+}
+.container5{
+    background-color: darkblue;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color: aliceblue;
+   
+}
+.title{
+    font-size: 48px;
+    
+}
+.secondary-text{
+    font-size: 25px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    padding:10px;
+    border-radius: 1000px;
+    font-size:18px;
+    padding: 10px;
+}
+.text-images img{
+    border:5px solid blue ;
+}
